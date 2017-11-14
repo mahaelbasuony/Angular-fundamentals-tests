@@ -1,0 +1,22 @@
+{
+  "name": "angular-fundamentals-tests",
+  "version": "1.0.0",
+  "description": "this repo includes all tests from this [course](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahaelbasuony/Angular-fundamentals-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahaelbasuony/Angular-fundamentals-tests/issues"
+  },
+  "homepage": "https://github.com/mahaelbasuony/Angular-fundamentals-tests#readme",
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+}
